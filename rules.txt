@@ -1,0 +1,7 @@
+@@||srv.sec.miui.com^$important
+@@||okx.com^$important
+@@||api.sec.miui.com^$important
+@@||api.device.xiaomi.net^$important
+@@||api.io.mi.com^$important
+
+||applog*.aliyuncs.com^$important
