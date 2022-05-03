@@ -3,5 +3,7 @@
 @@||api.sec.miui.com^$important
 @@||api.device.xiaomi.net^$important
 @@||api.io.mi.com^$important
+@@||fonts.googleapis.com^$important
+
 
 ||applog*.aliyuncs.com^$important
